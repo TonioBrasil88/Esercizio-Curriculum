@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+
+h3,
+h2 {
+
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+
+.img-profilo {
+
+    display: block;
+    width: 50%;
+    margin: 25px auto;
+
+}
+
+ul {
+    list-style: none !important;
+    list-style-type: none !important;
+    margin-bottom: 10px;
+    color: aliceblue;
+    padding: 0 !important;
+}
+
+li {
+    padding: 5px;
+}
+
+.col-3 {
+    padding-top: 30px !important;
+    padding-left: 45px !important;
+    background-color: rgb(32, 32, 34);
+}
+
+
+
+.container-destro {
+    padding: 35px 35px 20px 35px;
+}
